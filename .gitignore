@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+
+# Large raw data files
+data/
+
+# Claude IDE config
+.claude/
+
+# Root-level artifacts duplicated from outputs/
+feature_importance.png
+model_residuals.png
+features.csv
+xgb_model.pkl
